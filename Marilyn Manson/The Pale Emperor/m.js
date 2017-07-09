@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Killing Strangers.mp3";		
+f[2]	= "02 Deep Six.mp3";		
+f[3]	= "03 Third Day of a Seven Day Binge.mp3";		
+f[4]	= "04 The Mephistopheles of Los Angeles.mp3";		
+f[5]	= "05 Warship My Wreck.mp3";		
+f[6]	= "06 Slave Only Dreams To Be King.mp3";		
+f[7]	= "07 The Devil Beneath My Feet.mp3";		
+f[8]	= "08 Birds of Hell Awaiting.mp3";		
+f[9]	= "09 Cupid Carries a Gun.mp3";		
+f[10]	= "10 Odds of Even.mp3";		
+f[11]	= "11 Day 3.mp3";		
+f[12]	= "12 Fated, Faithful, Fatal.mp3";		
+f[13]	= "13 Fall of the House of Death.mp3";		
