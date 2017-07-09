@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/m33/edit/master/README.md)
+[v0.0.8](https://github.com/littleflute/m33/edit/master/README.md)
 
 [John Legend/DARKNESS AND LIGHT](John Legend/DARKNESS AND LIGHT)
 
@@ -10,3 +10,4 @@
 
 [Little Walter & Otis Rush/Blues Masters](Little Walter & Otis Rush/Blues Masters)
 
+[Louis Prima/The Best of Louis Prima](Louis Prima/The Best of Louis Prima)
