@@ -1,0 +1,10 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Neal and Jack and Me.mp3";		
+f[2]	= "03 Sartori in Tangier.mp3";		
+f[3]	= "04 Waiting Man.mp3";		
+f[4]	= "06 Two Hands.mp3";		
+f[5]	= "07 The Howler.mp3";		
+f[6]	= "Heartbeat.mp3";		
+f[7]	= "Neurotica.mp3";		
+f[8]	= "Requiem.mp3";		
