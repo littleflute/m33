@@ -1,0 +1,10 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 You're So Fine.mp3";		
+f[2]	= "02 Maybe the Last Time.mp3";		
+f[3]	= "03 It's So Hard for Me to Believe You Baby.mp3";		
+f[4]	= "04 All About My Girl.mp3";		
+f[5]	= "05 Walter's Blues.mp3";		
+f[6]	= "06 I Got You.mp3";		
+f[7]	= "07 Goin' Down Slow.mp3";		
+f[8]	= "08 Watermelon Man.mp3";		
