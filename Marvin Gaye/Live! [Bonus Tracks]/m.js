@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "03 Trouble Man.mp3";		
+f[2]	= "04 Flyin' High (In the Friendly Sky)-Mercy Mercy Me (The Ecology).mp3";		
+f[3]	= "05 Inner City Blues (Make Me Wanna Holler).mp3";		
+f[4]	= "06 Distant Lover.mp3";		
+f[5]	= "08 Keep Gettin' It On.mp3";		
+f[6]	= "09 Fossil Medley.mp3";		
+f[7]	= "10 Thanks to the Orchestra.mp3";		
+f[8]	= "11 Let's Get It On.mp3";		
+f[9]	= "12 What's Going On.mp3";		
+f[10]	= "Introduction.mp3";		
+f[11]	= "Jan.mp3";		
+f[12]	= "Overture.mp3";		

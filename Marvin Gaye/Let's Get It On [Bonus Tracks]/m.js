@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Let's Get It On.mp3";		
+f[2]	= "02 Please Stay (Once You Go Away).mp3";		
+f[3]	= "03 If I Should Die Tonight.mp3";		
+f[4]	= "04 Keep Gettin' It On.mp3";		
+f[5]	= "05 Come Get to This.mp3";		
+f[6]	= "06 Distant Lover.mp3";		
+f[7]	= "07 You Sure Love to Ball.mp3";		
+f[8]	= "08 Just to Keep You Satisfied.mp3";		
+f[9]	= "09 Let's Get It On [-][Single Edit].mp3";		
+f[10]	= "10 You Sure Love to Ball [-].mp3";		
