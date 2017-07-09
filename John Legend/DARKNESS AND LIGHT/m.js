@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 I Know Better.mp3";		
+f[2]	= "02 Penthouse Floor.mp3";		
+f[3]	= "03 Darkness and Light.mp3";		
+f[4]	= "05 Love Me Now.mp3";		
+f[5]	= "06 What You Do to Me.mp3";		
+f[6]	= "08 Right by You.mp3";		
+f[7]	= "09 Temporarily Painless.mp3";		
+f[8]	= "10 How Can I Blame You.mp3";		
+f[9]	= "11 Same Old Story.mp3";		
+f[10]	= "12 Marching into the Dark.mp3";		
+f[11]	= "Overload.mp3";		
+f[12]	= "Surefire.mp3";		
