@@ -1,4 +1,4 @@
-[v0.1.9](https://github.com/littleflute/m33/edit/master/README.md)
+[v0.2.9](https://github.com/littleflute/m33/edit/master/README.md)
 
 [John Legend/DARKNESS AND LIGHT](John Legend/DARKNESS AND LIGHT)
 
@@ -15,3 +15,5 @@
 [Marilyn Manson/The Pale Emperor](Marilyn Manson/The Pale Emperor)
 
 [Marvin Gaye/Let's Get It On (Bonus Tracks)](Marvin Gaye/Let's Get It On [Bonus Tracks])
+
+[Marvin Gaye/Live! (Bonus Tracks)](Marvin Gaye/Live! [Bonus Tracks])
